@@ -1,5 +1,5 @@
-# Hack_TryMap
+# tryMap
 Attack of automatic wayfinding.
 
-## 项目解构
-- 框架
+## 参考
+- https://github.com/ownthink/Jiagu
